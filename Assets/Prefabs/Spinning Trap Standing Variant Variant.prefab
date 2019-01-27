@@ -1,0 +1,505 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &661830595458472117
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8999952233700451000}
+    m_Modifications:
+    - target: {fileID: 2880498524633547701, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_Name
+      value: Cylinder Boulder - Candycane (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.771
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.28
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.035061613
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.030436963
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.70486456
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70782083
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 3.3070002
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -89.135
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.5948879
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.44233555
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.99997514
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2d853e5636db141e982e177172ea5049, type: 3}
+--- !u!1001 &661830595700354600
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2912922856034346228, guid: dd401f686ac62984abf997e64fdc9dd1,
+        type: 3}
+      propertyPath: m_Name
+      value: Spinning Trap Standing Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8487327844689939600, guid: dd401f686ac62984abf997e64fdc9dd1,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 274.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 8487327844689939600, guid: dd401f686ac62984abf997e64fdc9dd1,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 16.99
+      objectReference: {fileID: 0}
+    - target: {fileID: 8487327844689939600, guid: dd401f686ac62984abf997e64fdc9dd1,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 198.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 8487327844689939600, guid: dd401f686ac62984abf997e64fdc9dd1,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.017389914
+      objectReference: {fileID: 0}
+    - target: {fileID: 8487327844689939600, guid: dd401f686ac62984abf997e64fdc9dd1,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7337983
+      objectReference: {fileID: 0}
+    - target: {fileID: 8487327844689939600, guid: dd401f686ac62984abf997e64fdc9dd1,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.01879647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8487327844689939600, guid: dd401f686ac62984abf997e64fdc9dd1,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.6788847
+      objectReference: {fileID: 0}
+    - target: {fileID: 8487327844689939600, guid: dd401f686ac62984abf997e64fdc9dd1,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8487327844689939600, guid: dd401f686ac62984abf997e64fdc9dd1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 2.9350002
+      objectReference: {fileID: 0}
+    - target: {fileID: 8487327844689939600, guid: dd401f686ac62984abf997e64fdc9dd1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -94.452
+      objectReference: {fileID: 0}
+    - target: {fileID: 8487327844689939600, guid: dd401f686ac62984abf997e64fdc9dd1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117898767, guid: dd401f686ac62984abf997e64fdc9dd1, type: 3}
+      propertyPath: rotateVector.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1117898767, guid: dd401f686ac62984abf997e64fdc9dd1, type: 3}
+      propertyPath: rotateVector.y
+      value: 100
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: dd401f686ac62984abf997e64fdc9dd1, type: 3}
+--- !u!4 &8999952233700451000 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8487327844689939600, guid: dd401f686ac62984abf997e64fdc9dd1,
+    type: 3}
+  m_PrefabInstance: {fileID: 661830595700354600}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &661830596361511431
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8999952233700451000}
+    m_Modifications:
+    - target: {fileID: 2880498524633547701, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_Name
+      value: Cylinder Boulder - Candycane (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.49
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.471
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.672155
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.6677202
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.22783838
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.22460425
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -0.133
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 142.682
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90.424
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.5948879
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.44233555
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.99997514
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2d853e5636db141e982e177172ea5049, type: 3}
+--- !u!1001 &661830596566392764
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8999952233700451000}
+    m_Modifications:
+    - target: {fileID: 2880498524633547701, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_Name
+      value: Cylinder Boulder - Candycane
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.15934823
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.051776733
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.7744728
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.5216971
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5163279
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.4807973
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.47965792
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 93.30801
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.5948611
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.4423354
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2d853e5636db141e982e177172ea5049, type: 3}
+--- !u!1001 &661830596982238919
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8999952233700451000}
+    m_Modifications:
+    - target: {fileID: 2880498524633547701, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_Name
+      value: Cylinder Boulder - Candycane (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.79
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.481
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.035061613
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.030436963
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.70486456
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70782083
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 3.3070002
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -89.135
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.5948879
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.44233555
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.99997514
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2d853e5636db141e982e177172ea5049, type: 3}
+--- !u!1001 &661830597160731080
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8999952233700451000}
+    m_Modifications:
+    - target: {fileID: 2880498524633547701, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_Name
+      value: Cylinder Boulder - Candycane (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.06909236
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.31883407
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.9215422
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.4952645
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.49624044
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.5015035
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5069051
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -0.201
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -183.471
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 86.698006
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.594864
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.44233546
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817021633603333073, guid: 2d853e5636db141e982e177172ea5049,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2d853e5636db141e982e177172ea5049, type: 3}
